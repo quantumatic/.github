@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/quantumatic/.github/master/ry.png" width="20%">
-
-  <h1>Quantumatic</h1>
-</p>
+# Quantumatic
 
 Who are we? We are a team of frontend, backend and compiler engineers, that make awesome projects like our main project called [Ry programming language](https://github.com/quantumatic/ry) or package manager for it.
 
