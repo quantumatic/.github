@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../ry.png" width="20%">
+  <img src="https://raw.githubusercontent.com/quantumatic/.github/master/ry.png" width="20%">
 
   <h1>Quantumatic</h1>
 </p>
